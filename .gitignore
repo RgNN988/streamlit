@@ -1,6 +1,10 @@
 # Credenciais — NUNCA commitar
 .env
 
+# Notas internas de desenvolvimento — não versionar
+CLAUDE.md
+*.claude.md
+
 # Python
 __pycache__/
 *.pyc

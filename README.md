@@ -81,7 +81,7 @@ O app abrirá automaticamente em `http://localhost:8501`.
 │   └── visualizations.py    # Funções de gráficos Plotly
 ├── .env.example              # Modelo de variáveis de ambiente (sem valores reais)
 ├── requirements.txt          # Dependências Python
-└── CLAUDE.md                 # Guia interno para desenvolvimento com IA
+└── docs/project-notes.md    # Notas internas de desenvolvimento
 ```
 
 ### Como os dados fluem
